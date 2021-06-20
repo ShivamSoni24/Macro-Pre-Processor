@@ -1,0 +1,8 @@
+
+
+(E, 1 )  SET 0 
+MOVER (P, 3 )  ='0' 
+MOVEM (P, 3 )  , (P, 1 )  + (E, 1 )  
+(E, 1 )  SET (E, 1 )  + 1 
+AIF ( (E, 1 )  NE N ) (S, 1 )  
+MEND 

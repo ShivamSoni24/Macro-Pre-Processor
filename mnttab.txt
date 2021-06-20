@@ -1,0 +1,3 @@
+Macroname	#PP	#KP	#EV	MDTP	SSTP	KPDTP
+
+CLEARMEM	2	1	1	1	1	1	
